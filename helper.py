@@ -20,7 +20,7 @@
 
 # sum(1, 2)
 
-def subtract(a, b)
-    return a - b
+# def subtract(a, b)
+#     return a - b
 
-sum(5, 1)
+# sum(5, 1)
