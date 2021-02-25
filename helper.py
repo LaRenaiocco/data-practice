@@ -19,3 +19,8 @@
 #     return a + b)
 
 # sum(1, 2)
+
+def subtract(a, b)
+    return a - b
+
+sum(5, 1)
